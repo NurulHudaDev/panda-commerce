@@ -1,0 +1,50 @@
+.top-banner{
+    margin-top: 80px;
+}
+.main-container{
+    margin-top: 80px;
+}
+.banner{
+    background-color: #FEEAE9;
+    border-radius: 40px;
+}
+.price{
+    color: #FF136F;
+}
+.button{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: none;
+    padding: 5px 20px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+.categories{
+    border-radius: 10px;
+}
+#categorie-1{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+#categorie-2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+#categorie-3{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.shoes{
+    border-radius: 15px;
+}
+.submit{
+    border-radius: 15px;
+    background-color: #FFF2F1;
+}
+.submit input{
+    border: 2px solid gainsboro;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+
+}
